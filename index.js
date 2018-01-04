@@ -7,6 +7,3 @@ function updateObjectWithKeyAndValue(recipes, key, value){
 
 var recipes = { prop: 1 }
 updateObjectWithKeyAndValue(obj, 'prop2', 2)
-
-
-
